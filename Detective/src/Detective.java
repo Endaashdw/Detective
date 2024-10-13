@@ -32,7 +32,7 @@ public class Detective {
         Scanner scanner = new Scanner(System.in);
         String command;
 
-        System.out.println("Welcome to the Detective agency system.");
+        System.out.println("Welcome to the Detective Agency System.");
 
         do {
             System.out.println("\nMenu:");
